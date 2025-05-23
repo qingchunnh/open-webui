@@ -524,7 +524,7 @@
 	"Error uploading file: {{error}}": "上传文件时出错：{{error}}",
 	"Evaluations": "竞技场评估",
 	"Exa API Key": "Exa API 密钥",
-	"Example: (&(objectClass=inetOrgPerson)(uid=%s))": "例如：（&(objectClass=inetOrgPerson)(uid=%s)）",
+	"Example: (&(objectClass=inetOrgPerson)(uid=%s))": "例如：(&(objectClass=inetOrgPerson)(uid=%s))",
 	"Example: ALL": "例如：ALL",
 	"Example: mail": "例如：mail",
 	"Example: ou=users,dc=foo,dc=example": "例如：ou=users,dc=foo,dc=example",
