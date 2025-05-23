@@ -330,7 +330,7 @@
 	"Didn't fully follow instructions": "没有完全遵照指示",
 	"Direct": "直接",
 	"Direct Connections": "直接连接",
-	"Direct Connections allow users to connect to their own OpenAI compatible API endpoints.": "直接连接允许用户接入自有的 OpenAI 兼容的 API 端点",
+	"Direct Connections allow users to connect to their own OpenAI compatible API endpoints.": "直接连接允许用户连接自有的 OpenAI 兼容的 API 端点",
 	"Direct Connections settings updated": "直接连接设置已更新",
 	"Direct Tool Servers": "直接连接工具服务器",
 	"Disabled": "禁用",
