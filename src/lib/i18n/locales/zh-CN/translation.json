@@ -371,7 +371,7 @@
 	"Drag and drop a file to upload or select a file to view": "拖动文件上传或选择文件查看",
 	"Draw": "平局",
 	"Drop any files here to upload": "将任何文件拖放到此处进行上传",
-	"e.g. '30s','10m'. Valid time units are 's', 'm', 'h'.": "例如：'30s','10m' 有效的时间单位包括：'s'(秒), 'm'(分), 'h'(时)",
+	"e.g. '30s','10m'. Valid time units are 's', 'm', 'h'.": "例如：'30s','10m'。有效的时间单位包括：'s'(秒), 'm'(分), 'h'(时)",
 	"e.g. \"json\" or a JSON schema": "例如：\"json\" 或一个 JSON schema",
 	"e.g. 60": "例如：60",
 	"e.g. A filter to remove profanity from text": "例如：一个用于过滤文本中不当内容的过滤器",
