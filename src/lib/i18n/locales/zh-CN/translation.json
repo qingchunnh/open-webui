@@ -253,7 +253,7 @@
 	"Controls the balance between coherence and diversity of the output. A lower value will result in more focused and coherent text.": "控制输出文本中连贯性和多样性之间的平衡。较低的值将产生更加专注和连贯的文本。",
 	"Copied": "已复制",
 	"Copied link to clipboard": "已复制链接到剪贴板",
-	"Copied shared chat URL to clipboard!": "已复制对话记录的分享链接到剪贴板！",
+	"Copied shared chat URL to clipboard!": "已复制对话的分享链接到剪贴板！",
 	"Copied to clipboard": "已复制到剪贴板",
 	"Copy": "复制",
 	"Copy Formatted Text": "复制格式化文本",
