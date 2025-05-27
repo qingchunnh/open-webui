@@ -781,7 +781,7 @@
 	"Merge Responses": "合并回复",
 	"Merged Response": "合并的回复",
 	"Message rating should be enabled to use this feature": "要使用此功能，应先启用回复评价功能",
-	"Messages you send after creating your link won't be shared. Users with the URL will be able to view the shared chat.": "创建链接后发送的消息不会被共享。具有 URL 的用户将能够查看共享对话。",
+	"Messages you send after creating your link won't be shared. Users with the URL will be able to view the shared chat.": "创建链接后发送的消息将不会被分享。通过该链接访问的用户将能够查看对话记录。",
 	"Microsoft OneDrive": "Microsoft OneDrive",
 	"Microsoft OneDrive (personal)": "Microsoft OneDrive（个人账户）",
 	"Microsoft OneDrive (work/school)": "Microsoft OneDrive（工作或学校账户）",
