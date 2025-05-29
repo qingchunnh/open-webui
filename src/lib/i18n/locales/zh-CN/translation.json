@@ -1244,7 +1244,7 @@
 	"Tool updated successfully": "工具更新成功",
 	"Tools": "工具",
 	"Tools Access": "访问工具",
-	"Tools are a function calling system with arbitrary code execution": "工具是一个具有任意代码执行能力的函数调用系统",
+	"Tools are a function calling system with arbitrary code execution": "工具是一个具有任意代码执行功能的函数调用系统",
 	"Tools Function Calling Prompt": "工具函数调用提示词",
 	"Tools have a function calling system that allows arbitrary code execution.": "注意：工具有权执行任意代码",
 	"Tools Public Sharing": "工具公开共享",
