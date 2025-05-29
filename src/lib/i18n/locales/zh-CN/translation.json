@@ -338,7 +338,7 @@
 	"Direct Connections settings updated": "直接连接设置已更新",
 	"Direct Tool Servers": "直接连接工具服务器",
 	"Disable Image Extraction": "禁用图像提取",
-	"Disable image extraction from the PDF. If Use LLM is enabled, images will be automatically captioned. Defaults to False.": "禁用从 PDF 中提取图像。若启用 '使用大语言模型（LLM）' 功能，图像将自动添加描述。默认为关闭",
+	"Disable image extraction from the PDF. If Use LLM is enabled, images will be automatically captioned. Defaults to False.": "禁用从 PDF 中提取图像。若开启 '使用大语言模型（LLM）' 功能，图像将自动添加描述。默认为关闭",
 	"Disabled": "禁用",
 	"Discover a function": "发现更多函数",
 	"Discover a model": "发现更多模型",
