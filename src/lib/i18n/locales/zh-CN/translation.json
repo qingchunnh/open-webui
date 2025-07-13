@@ -163,7 +163,7 @@
 	"Boosting or penalizing specific tokens for constrained responses. Bias values will be clamped between -100 and 100 (inclusive). (Default: none)": "为受限响应提升或惩罚特定标记。偏置值将被限制在 -100 到 100（包括两端）之间。（默认：无）",
 	"Both Docling OCR Engine and Language(s) must be provided or both left empty.": "必需提供 Docling OCR Engine 和语言，或者都留空。",
 	"Brave Search API Key": "Brave Search API 密钥",
-	"Bullet List": "项目符号列表",
+	"Bullet List": "无序列表",
 	"By {{name}}": "由 {{name}} 提供",
 	"Bypass Embedding and Retrieval": "绕过嵌入和检索",
 	"Bypass Web Loader": "绕过网页加载器",
