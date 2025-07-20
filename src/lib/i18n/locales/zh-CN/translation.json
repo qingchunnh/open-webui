@@ -532,7 +532,7 @@
 	"Enter Sougou Search API SK": "输入搜狗搜索 API Secret 密钥",
 	"Enter stop sequence": "输入停止序列 (Stop Sequence)",
 	"Enter system prompt": "输入系统提示词 (System Prompt)",
-	"Enter system prompt here": "在这里输入系统提示词 (Prompt)",
+	"Enter system prompt here": "在这里输入系统提示词 (System Prompt)",
 	"Enter Tavily API Key": "输入 Tavily API 密钥",
 	"Enter Tavily Extract Depth": "输入 Tavily 提取深度",
 	"Enter the public URL of your WebUI. This URL will be used to generate links in the notifications.": "输入 WebUI 的公共 URL。此 URL 将用于在通知中生成链接",
